@@ -2,7 +2,6 @@
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
@@ -36,6 +35,26 @@
     <style name="AppThemeDark" parent="Theme.AppCompat.DayNight.DarkActionBar">
         <item name="android:textColor">@color/colorPrimary</item>
         <item name="android:textSize">@dimen/fontsize</item>
+    </style>
+
+
+    <style name="GreenText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#3EB489 </item>
+    </style>
+
+    <style name="style_one">
+        <item name="android:textColor">#C51162</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="style_one.style_two">
+        <item name="android:textSize">20sp</item>
+        <item name="android:background">#795548</item>
+    </style>
+    <style name="style_one.style_two.style_three">
+        <item name="android:textColor">#76FF03</item>
+        <item name="android:background">#004D40</item>
     </style>
 
 </resources>

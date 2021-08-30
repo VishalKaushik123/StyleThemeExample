@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">StyleThemeExample</string>
+    <string name="app_name">Concretepage</string>
+    <string name="message1">Android Styles and Themes Tutorial with Multiple Style Inheritance Examples</string>
+    <string name="message2">Concretepage.com helps the software developers and interviewees.
+                          Every topic is written with example and concrete explanation.
+                          We write topics mainly on core java, j2ee and java frameworks.
+    </string>
+    <string name="message3">Java, Spring, Hibernate, JQuery, quiz,
+         interview questions, Windows Tools, Forum
+    </string>
 </resources>
